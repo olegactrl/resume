@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+
+div{
+    height: 1676px; 
+    width: 1281px;
+}
+
+aside, main{
+    padding: 50px;
+}
+
+hr{
+    width: 399px;   
+}
+
+h2{
+    text-align: left;
+}
+main{
+    background-color: white;
+    color: black;
+    height: 1676px; 
+    font-size: 24px;
+    padding-left: 582px;
+}
+
+
+
+
+
+h1{
+    font-size: 32px;
+    text-align: center;
+}
+h3{
+    font-size: 3px;
+}
+aside{
+    text-align: left;
+    background-color:  #471212;
+    color: white;
+    height: 1676px; 
+    width: 464px;
+    float: left ;
+    font-size: 30px;
+    padding-left: 32px;
+}
